@@ -1,0 +1,1 @@
+MainPackage=D:\Work\Code Practice\PasswordManager\PasswordManager\PasswordManager.UWP\bin\x86\Release\PasswordManager.UWP_1.0.1.0_x86.appx
